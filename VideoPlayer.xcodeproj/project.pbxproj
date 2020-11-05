@@ -13,6 +13,7 @@
 		AA03293E255258FD0003D53E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA03293C255258FD0003D53E /* Main.storyboard */; };
 		AA032940255258FF0003D53E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA03293F255258FF0003D53E /* Assets.xcassets */; };
 		AA032943255258FF0003D53E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA032941255258FF0003D53E /* LaunchScreen.storyboard */; };
+		AA48952B2553A61A0028B881 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA48952A2553A61A0028B881 /* VideoPlayerView.swift */; };
 		AA818D5825526F5B00E580FF /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AA818D5725526B5D00E580FF /* test.mp4 */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		AA03293F255258FF0003D53E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA032942255258FF0003D53E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA032944255258FF0003D53E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA48952A2553A61A0028B881 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		AA818D5725526B5D00E580FF /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 				AA032936255258FD0003D53E /* AppDelegate.swift */,
 				AA032938255258FD0003D53E /* SceneDelegate.swift */,
 				AA03293A255258FD0003D53E /* ViewController.swift */,
+				AA48952A2553A61A0028B881 /* VideoPlayerView.swift */,
 				AA03293C255258FD0003D53E /* Main.storyboard */,
 				AA818D5725526B5D00E580FF /* test.mp4 */,
 				AA03293F255258FF0003D53E /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				AA03293B255258FD0003D53E /* ViewController.swift in Sources */,
 				AA032937255258FD0003D53E /* AppDelegate.swift in Sources */,
 				AA032939255258FD0003D53E /* SceneDelegate.swift in Sources */,
+				AA48952B2553A61A0028B881 /* VideoPlayerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
